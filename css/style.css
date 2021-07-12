@@ -1,0 +1,6 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+h1{color: red;}
+p{padding: 20px; border: 1px solid black;}
